@@ -1,5 +1,7 @@
-# LEAP Template Feedstock
-This repository serves as template/documentation/testing ground for Leap-Pangeo Data Library Feedstocks.
+# ChaosBench Feedstock
+>[!WARNING]
+>For now we use this repo only to collect notebooks and issues to prep data for the LEAP ChaosBench Hackathon.
+
 
 ## Setup
 Every dataset that is part of the LEAP-Pangeo Data Library is represented by a repository. You can easily create one by following the instructions below.
